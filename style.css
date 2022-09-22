@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width:400px;
+}
+input{
+    border: 2px solid red;
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: white;
+}
+button{
+    margin-top: 5px;
+ background-color: red;
+ padding: 10px;
+ border: 1px solid red;
+ color: white;
+ font-weight: bold;
+}
+ul{
+    margin-top:20px ;
+    list-style: none;
+    padding-left: 0;
+}
+li{
+margin-top: 5px;
+}
+a{
+    color: red;
+}
+#delete-btn{
+    background-color:white;
+    color:red;
+}
